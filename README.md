@@ -27,3 +27,12 @@ On first launch, choose:
 Standard setup (recommended)
 Choose a theme (Light/Dark)
 Android Studio will download SDK components. Wait for setup to complete.
+
+#After Installation :
+Test Installation
+Open Android Studio
+Create a New Project
+
+Run on:
+Real device (enable USB debugging)
+Android Emulator (use AVD Manager)
